@@ -36,10 +36,13 @@ p {
   color: black;
 
 }
+
 section {
 	border: 1px solid  black;
 	margin-bottom: 15px;
+	background-color: #DBDBDB;
 }
+
 
 
 .section-head {
@@ -53,6 +56,17 @@ section {
 	border-style: solid;
 	border-color: black;
 	font-weight: 1.25em;
+}
+
+#beef {
+	background-color: #F2E1F7;
+}
+
+#chicken {
+	background-color: #B1D6E3;
+}
+#sushi {
+	background-color: #EEF7EB;
 }
 
 @media (min-width: 992px) {
